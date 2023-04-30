@@ -38,4 +38,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/t33fnb7e820xojynm1w6jbbw5?si=2e614647cb7c4b99)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/<3519263918784f5e>)
