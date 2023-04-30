@@ -7,7 +7,7 @@
 <!-- BIO -->
 <h1 align="center">Bio</h1>
 
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=My+name+is+gabriel;I%C2%B4m+a+passionate+frontend+developer+from+Peru%3C" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **PostgreSQL**
 
@@ -32,10 +32,3 @@
     <img src='https://raw.githubusercontent.com/gabsss1/gabsss1/master/skills/nodejs.png' height='50px'/>
     <img src='https://raw.githubusercontent.com/gabsss1/gabsss1/master/skills/sql.png' height='50px'/>
 </p>
-
-<!-- Music -->
-<h1 align="center">Leisure Activities</h1>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/<t33fnb7e820xojynm1w6jbbw5?si=3519263918784f5e>)
