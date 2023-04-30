@@ -36,4 +36,6 @@
 <!-- Music -->
 <h1 align="center">Leisure Activities</h1>
 
-![Ahora estoy escuchando en Spotify](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58?si=7c9713cdfdc84929)
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/t33fnb7e820xojynm1w6jbbw5?si=2e614647cb7c4b99)
