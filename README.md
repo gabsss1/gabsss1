@@ -31,4 +31,6 @@
     <img src='https://raw.githubusercontent.com/gabsss1/gabsss1/master/skills/mongo.png' height='50px'/>
     <img src='https://raw.githubusercontent.com/gabsss1/gabsss1/master/skills/nodejs.png' height='50px'/>
     <img src='https://raw.githubusercontent.com/gabsss1/gabsss1/master/skills/sql.png' height='50px'/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"  height="50px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="50px"/>
 </p>
