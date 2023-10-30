@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ventura Moreno</h1>
-<h3 align="center">A passionate programmer from perú</h3>
+<h3 align="center">A passionate Frontend from perú</h3>
 
 - 🌱 I’m currently learning **Docker, PostgreSQL and React**
 
