@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, PostgreSQL and React**
 
-- 💬 Ask me about **Angular, React and MySql**
+- 💬 Ask me about **Angular, NestJS and MySql**
 
 - 📫 How to reach me **gventuram2015@gmail.com**
 
