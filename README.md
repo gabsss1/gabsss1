@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ventura Moreno</h1>
 <h3 align="center">A passionate Frontend from Peru</h3>
 
-<a href="https://discord.com/users/467155772464431117" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/618689346828238848?hideStatus=true&hideBadges=false&borderRadius=5px&showDisplayName=true">
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/467155772464431117?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/467155772464431117)
+
 
 - 🌱 I’m currently learning **Docker, PostgreSQL and React**
 
