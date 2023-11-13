@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ventura Moreno</h1>
 <h3 align="center">A passionate Frontend from Peru</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/467155772464431117)](https://discord.com/users/467155772464431117)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=467155772464431117)
 
 - 🌱 I’m currently learning **Docker, PostgreSQL and React**
 
