@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ventura Moreno</h1>
 <h3 align="center">A passionate Full-Stack from Peru</h3>
 
-- 🌱 I’m currently learning **Docker, PostgreSQL and React**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Angular, NestJS and MySql**
 
