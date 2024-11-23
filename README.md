@@ -6,8 +6,6 @@
   />
 </div>
 
-<h3>I'm a software developer from Peru</h3>
-
 <div align="center">
-  
+  <h3>I'm a software developer from Peru</h3>
 </div>
