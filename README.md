@@ -14,13 +14,16 @@
   <h2>My Skills :)</h2>
   <br/>
   <div align="center">
-    <h3>Languages:</h3> <img src="https://skillicons.dev/icons?i=javascript" />
-    <h3>Frameworks:</h3> <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" /><<img src="https://skillicons.dev/icons?i=nestjs,express" /><br>
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <h3>Frameworks:</h3>
+    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nestjs,express" />
     <h3>Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/>
     <h3>Cloud:</h3>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
   </div>
 </div>
