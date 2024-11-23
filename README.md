@@ -11,9 +11,19 @@
 </div>
 
 <div align="center">
-  <h2> Languages-Framworks-Tools</h2>
+  <h2>My Skills</h2>
   <br/>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,nestjs,firebase,mongodb,postgres,mysql" /><br>
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
+    <h3>Framworks:</h3>
+    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nestjs,express" /><br>
+    <h3>Databses:</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/><br>
+    <h3>Tools:</h3>
+     <img src="https://skillicons.dev/icons?i=vscode,postman,"/><br>
+    <h3>Cloud:</h3>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/><br>
   </div>
 </div>
