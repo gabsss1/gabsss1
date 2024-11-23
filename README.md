@@ -2,7 +2,7 @@
   <img 
     src="https://i.pinimg.com/736x/61/ae/f2/61aef2aab67a858d21aa98b23c7b177d.jpg" 
     alt="Imagen centrada" 
-    style="display: block; margin: auto; width: 100px; height: auto;" 
+    style="display: block; margin: auto; width: 400px; height: auto;" 
   />
 </div>
 
