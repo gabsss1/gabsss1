@@ -22,7 +22,7 @@
     <h3>Databses:</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/><br>
     <h3>Tools:</h3>
-     <img src="https://skillicons.dev/icons?i=vscode,postman,"/><br>
+     <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/><br>
     <h3>Cloud:</h3>
       <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/><br>
   </div>
