@@ -9,3 +9,10 @@
 <div align="center">
   <h3>I'm a software developer from Peru</h3>
 </div>
+
+<div align="center">
+  <h2> Languages-Framworks-Tools</h2>
+  <div align="center">
+    
+  </div>
+</div>
