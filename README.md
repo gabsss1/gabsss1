@@ -12,7 +12,8 @@
 
 <div align="center">
   <h2> Languages-Framworks-Tools</h2>
+  <br/>
   <div align="center">
-    
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,nestjs,firebase,mongodb,postgres,mysql" /><br>
   </div>
 </div>
