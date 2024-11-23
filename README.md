@@ -14,11 +14,8 @@
   <h2>My Skills :)</h2>
   <br/>
   <div align="center">
-    <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=javascript" /><br>
-    <h3>Frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nestjs,express" /><br>
+    <h3>Languages:</h3> <img src="https://skillicons.dev/icons?i=javascript" />
+    <h3>Frameworks:</h3> <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" /><<img src="https://skillicons.dev/icons?i=nestjs,express" /><br>
     <h3>Databases:</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/><br>
     <h3>Tools:</h3>
