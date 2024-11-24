@@ -19,8 +19,6 @@
     <h3>Frameworks:</h3>
     <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" />
     <img src="https://skillicons.dev/icons?i=nestjs,express" />
-    <h3>Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
     <h3>Tools:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/>
     <h3>Cloud:</h3>
