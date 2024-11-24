@@ -17,11 +17,8 @@
     <h3>Languages:</h3>
     <img src="https://skillicons.dev/icons?i=javascript" />
     <h3>Frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nestjs,express" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,nestjs" />
     <h3>Tools:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/>
-    <h3>Cloud:</h3>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
   </div>
 </div>
