@@ -19,6 +19,6 @@
     <h3>Frameworks:</h3>
     <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,nestjs" />
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,postman,discord,docker"/>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,docker"/>
   </div>
 </div>
